@@ -1,0 +1,16 @@
+
+    -   Register new user
+    -   Login
+    -   logout
+    -   reset forgot password
+    -   view list of all blogs
+    -   view list of following users blog
+    -   Add new blog
+    -   View own as well as other users profile including last seen
+    -   Update own profile
+    -   follow and unfollow users
+    -   APi
+
+
+Local mail server for testing:
+    python -m smtpd -n -c DebuggingServer localhost:8025
